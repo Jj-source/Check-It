@@ -10,8 +10,7 @@ Check-IT!: A Corpus of Expert Fact-checked Claims for Italian
   Code files that cover the recovering and manipolation of the data presented in the paper
 
 ## Dataset versions
-Not all the articles contain the same amount of informations, but (luckily) not all the tasks require all the informations!
-To build a usefull dataset for different tasks we split the articles in different groups (some partially overlapping) based on the amount of informations contained in them.
+Not all the articles contain the same amount of informations, but (luckily) not all the tasks require all the informations!<br>To build a usefull dataset for different tasks we split the articles in different groups (some partially overlapping) based on the amount of informations contained in them.
 
 Current versions are:
 - d1: basic informations + statement and author of the statement
