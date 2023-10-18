@@ -1,7 +1,7 @@
 # Check-It
 Check-IT!: A Corpus of Expert Fact-checked Claims for Italian
 
-## Reposity structure
+## Repository structure
 - Paper
 
   Resources for our paper and its appendices
