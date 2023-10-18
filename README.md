@@ -8,6 +8,9 @@ Check-IT!: A Corpus of Expert Fact-checked Claims for Italian
 - Code
   
   Code files that cover the recovering and manipolation of the data presented in the paper
+- Data
+
+  The final versions of the dataset,<br>Files with label distribution for each politician and political party mentioned in the data,<br>The raw data from Pagella Politica and other sources
 
 ## Dataset versions
 Not all the articles contain the same amount of informations, but (luckily) not all the tasks require all the informations!<br>To build a usefull dataset for different tasks we split the articles in different groups (some partially overlapping) based on the amount of informations contained in them.
