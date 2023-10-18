@@ -1,0 +1,40 @@
+d1 : 1146
+etichette rilevanti
+Vero: 182
+Nì: 411
+Falso: 247
+etichette lunghe: 270
+--------
+
+d2 : 3526
+etichette rilevanti
+Vero: 1146
+Nì: 1465
+Falso: 609
+etichette lunghe: 270
+--------
+
+d3 : 1065
+etichette rilevanti
+Vero: 170
+Nì: 377
+Falso: 229
+etichette lunghe: 254
+--------
+
+join_d1 : 3577
+etichette rilevanti'
+Vero: 1152'
+Nì: 1496
+Falso: 623
+etichette lunghe: 270
+--------
+
+join_d2 : 5439
+etichette rilevanti
+Vero: 1955
+Nì: 2289
+Falso: 889
+etichette lunghe: 270
+--------
+
