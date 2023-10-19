@@ -3,7 +3,7 @@ import json
 
 # code to clean and refactor the dataset
 
-FILEPAGELLA = '../raw_data/pagellaPolitica_data_24092022.json'
+FILEPAGELLA = ''
 
 with open(FILEPAGELLA, "r") as json_file:
     f = json.load(json_file)
