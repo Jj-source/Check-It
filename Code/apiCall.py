@@ -3,7 +3,7 @@ import requests
 # Collecting of data from the API, saved in a file for further manipolatino
     
 # api-endpoint
-URLPAGELLA = "https://backend.pagellapolitica.it/wp-json/wp/v2/dichiarazioni"
+URLPAGELLA = ""
 OUTFILE = ''
 #number of articles
 conteggio = 0
