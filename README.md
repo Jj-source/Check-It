@@ -66,11 +66,12 @@ N/A
  
 ## D. ANNOTATOR DEMOGRAPHIC
 
-Annotator #1: Age: 42; Gender: male; Race/ethnicity: caucasian; Native language: Italian; Socioeconomic status: upper middle-class; Training in linguistics/other relevant discipline: PhD in Computational Linguistics
+Annotator #1: Age: XX; Gender: male; Race/ethnicity: caucasian; Native language: Italian; Socioeconomic status:n/a Training in linguistics/other relevant discipline: graduating in Computer Science, with a specialization in Natural Language Processing 
 
-Annotator #2: Age: XX; Gender: female; Race/ethnicity: caucasian; Native language: Italian; Socioeconomic status:n/a Training in linguistics/other relevant discipline: XX
+Annotator #2: Age: 42; Gender: male; Race/ethnicity: caucasian; Native language: Italian; Socioeconomic status: upper middle-class; Training in linguistics/other relevant discipline: PhD in Computational Linguistics
 
-Annotator #3: Age: XX; Gender: male; Race/ethnicity: caucasian; Native language: Italian; Socioeconomic status:n/a Training in linguistics/other relevant discipline: graduating in Computer Science, with a specialization in Natural Language Processing 
+ Annotator #3: Age: XX; Gender: female; Race/ethnicity: caucasian; Native language: Italian; Socioeconomic status:n/a Training in linguistics/other relevant discipline: XX
+
 
 ## E. SPEECH SITUATION
 
