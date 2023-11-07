@@ -70,7 +70,7 @@ Annotator #1: Age: 22; Gender: male; Race/ethnicity: caucasian; Native language:
 
 Annotator #2: Age: 42; Gender: male; Race/ethnicity: caucasian; Native language: Italian; Socioeconomic status: upper middle-class; Training in linguistics/other relevant discipline: PhD in Computational Linguistics
 
- Annotator #3: Age: XX; Gender: female; Race/ethnicity: caucasian; Native language: Italian; Socioeconomic status:n/a Training in linguistics/other relevant discipline: XX
+ Annotator #3: Age: 35; Gender: female; Race/ethnicity: caucasian; Native language: Italian; Socioeconomic status: middle-class; Training in linguistics/other relevant discipline: PhD in Information Engineering
 
 
 ## E. SPEECH SITUATION
