@@ -14,18 +14,15 @@ This repository continas the data and code for the paper "CheckIT!: A Corpus of 
   The final versions of the dataset,<br>Files with label distribution for each politician and political party mentioned in the data,<br>The raw data from Pagella Politica and other sources
 
 ## Dataset versions
-Not all the articles contain the same amount of informations, but (luckily) not all the tasks require all the informations!<br>To build a usefull dataset for different tasks we split the articles in different groups (some partially overlapping[^1]) based on the amount of informations contained in them.
+Not all the articles contain the same amount of informations, but (luckily) not all the tasks require all the informations!<br>To build a usefull dataset for different tasks we split the articles in different groups (some partially overlapping[^1]) based on the amount of informations contained in them.<br>For the sake of the dataset split we will consider the following fields as "basic informations": title, publishment date of the article, link to the original article, statement, content of the article, author of the statement and verdict.
 
-Current versions are:
-- d1: basic informations + statement and author of the statement
-- d2: less details, it contains all the articles regardless of the informations missing
-- d3: more refined, basic informations + statement, author of the statement, political party (or political body) of the author and platform on which the statement was shared.
+Current versions, saved in the V2 folder, are:
+- d1: basic informations + political party of politician author of the statement [2706 articles]
+- CheckIT!: basic informations [3527 articles]
+- d3: basic informations + platform on which the statement was shared [1142 articles]
 
-We also had the opportunity to evaluate a different dataset, with data collected by another italian scolar through the same source (Pagella Politica), in a earlier version of the website. Since this dataset adheres to the standard of version d1, we created two more versions:
-- join_d1: d1 + older dataset
-- join_d2 : d2 + older dataset
-
-This leaves us with a total of **5** versions! The version used for the expriments is XXX (stored in YYY)
+This leaves us with a total of **3** versions! The version used for the expriments is d1 (stored in data/v2/d1.json).<br>
+Past versions are saved in the v1 folder.
 
 # Data Statement for CheeckIt! v1.0
 
