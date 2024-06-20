@@ -1,28 +1,23 @@
 # CheckIt!
 
-This repository continas the data and code for the paper "CheckIT!: A Corpus of Expert Fact-checked Claims for Italian" - presented at the 9th Italian Conference on Computational Linguistics
+This repository contains the code for the paper "CheckIT!: A Corpus of Expert Fact-checked Claims for Italian" - presented at the 9th Italian Conference on Computational Linguistics
 
 ## Repository structure
-- Paper
-
-  Resources for our paper and its appendices
-- Code
-  
-  Code files that cover the recovering and manipolation of the data presented in the paper
-- Data
-
-  The final versions of the dataset,<br>Files with label distribution for each politician and political party mentioned in the data,<br>The raw data from Pagella Politica and other sources
+- Paper : Resources for our paper and its appendices
+- Code :   Code files that cover the recovering and manipolation of the data presented in the paper
 
 ## Dataset versions
 Not all the articles contain the same amount of informations, but (luckily) not all the tasks require all the informations!<br>To build a usefull dataset for different tasks we split the articles in different groups (some partially overlapping[^1]) based on the amount of informations contained in them.<br>For the sake of the dataset split we will consider the following fields as "basic informations": title, publishment date of the article, link to the original article, statement, content of the article, author of the statement and verdict.
 
-Current versions, saved in the V2 folder, are:
+Current versions are:
 - d1: basic informations + political party of politician author of the statement [2706 articles]
 - CheckIT!: basic informations [3527 articles]
 - d3: basic informations + platform on which the statement was shared [1142 articles]
 
-This leaves us with a total of **3** versions! The version used for the expriments is d1 (stored in data/v2/d1.json).<br>
-Past versions are saved in the v1 folder.
+This leaves us with a total of **3** versions! The version used for the expriments is d1.<br>
+
+Access to the dataset can be requested to via this link: https://doi.org/10.34894/RYIWQA
+Permission to obtain the data is granted by Pagella Politica.
 
 # Data Statement for CheeckIt! v1.0
 
@@ -31,7 +26,12 @@ Data set name: CheckIT!: A Corpus of Expert Fact-checked Claims for Italian V1.0
 Citation (if available):
 
 ```
-@inproceedings{
+@inproceedings{gili2023checkit,
+  title={CheckIT!: A Corpus of Expert Fact-checked Claims for Italian},
+  author={Gili, Jacopo and Passaro, Lucia and Caselli, Tommaso},
+  booktitle={9th Italian Conference on Computational Linguistics, CLiC-it 2023},
+  year={2023},
+  organization={CEUR Workshop Proceedings (CEUR-WS. org)}
 }
 ```
 
