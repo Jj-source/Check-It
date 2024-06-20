@@ -17,7 +17,7 @@ Current versions are:
 This leaves us with a total of **3** versions! The version used for the expriments is d1.<br>
 
 Access to the dataset can be requested to via this link: https://doi.org/10.34894/RYIWQA
-Permission to obtain the data is granted by Pagella Politica.
+Permission to obtain the data is granted by Pagella Politica. To request access to the data contact [dr. Tommaso Caselli](https://www.rug.nl/staff/t.caselli/)
 
 # Data Statement for CheeckIt! v1.0
 
